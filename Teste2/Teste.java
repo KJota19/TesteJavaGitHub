@@ -4,7 +4,7 @@ public class Teste {
     public static void main(String[] args){;
         //tipos primitivos
 
-        int age=19;
+        int age=18;
         int idade=(int)100000000L;//colocando um número maior em um int que não comporta
         long numeroGrande2=(long)155.23;
         long numeroGrande=10000L;

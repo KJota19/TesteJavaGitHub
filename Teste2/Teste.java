@@ -2,7 +2,7 @@ package Teste2;
 
 public class Teste {
     public static void main(String[] args){;
-        //tipos primitivos
+        //Tipos primitivos
 
         int age=18;
         int idade=(int)100000000L;//colocando um número maior em um int que não comporta

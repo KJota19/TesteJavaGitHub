@@ -1,8 +1,9 @@
-package Teste2;
+//tipos primitivos
 
-public class Teste {
+package Tipos Primitivos;
+
+public class Teste02 {
     public static void main(String[] args){;
-        //tipos primitivos
 
         int age=18;
         int idade=(int)100000000L;//colocando um número maior em um int que não comporta

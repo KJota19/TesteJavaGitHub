@@ -1,4 +1,6 @@
-package Teste1;
+// olá mundo 
+
+package Tipos Primitivos;
 
 public class Teste {
     public static void main(String[] args) {

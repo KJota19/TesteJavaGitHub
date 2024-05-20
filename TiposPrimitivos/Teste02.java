@@ -1,4 +1,4 @@
-//tipos primitivos
+//TIPOS PRIMITIVOS
 
 package TiposPrimitivos;
 

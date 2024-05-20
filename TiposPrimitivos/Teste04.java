@@ -1,4 +1,4 @@
-//Inteiro, real, verdadeiro e letra
+//INTEIRO, REAL, VERDADEIRO E LETRA
 
 package TiposPrimitivos;
 

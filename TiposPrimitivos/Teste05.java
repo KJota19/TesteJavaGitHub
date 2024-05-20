@@ -1,4 +1,4 @@
-//nome e idade
+//NOME E IDADE
 
 package TiposPrimitivos;
 

@@ -1,4 +1,4 @@
-// balanço trimestral e média mensal de uma empresa.
+// BALANÇO TRIMESTRAL E MÉDIA MENSAL DE UMA EMPRESA.
 
 package TiposPrimitivos;
 
